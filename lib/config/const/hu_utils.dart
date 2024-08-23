@@ -1,0 +1,3 @@
+class HUUtils {
+  HUUtils._();
+}

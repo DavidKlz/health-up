@@ -1,0 +1,3 @@
+class HUUrls {
+  HUUrls._();
+}
