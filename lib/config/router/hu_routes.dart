@@ -1,3 +1,0 @@
-class HURoutes {
-  HURoutes._();
-}
